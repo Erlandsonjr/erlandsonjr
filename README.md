@@ -6,7 +6,7 @@
 📚 Constantly improving my skills and exploring new technologies.  
 
 <p align="center">
-  <img src="[https://i.giphy.com/LHrCZhpFnlyNO.webp](https://media1.tenor.com/m/CEWzMBEgni4AAAAd/coffee-hot.gif)" width="100%" height="150px"/>
+  <img src="https://c.tenor.com/CEWzMBEgni4AAAAd/tenor.gif" width="100%" height="150px"/>
 </p>
 
 ---
