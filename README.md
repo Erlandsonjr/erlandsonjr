@@ -22,12 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
 </p>
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erlandsonjr&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlandsonjr&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-</div>
