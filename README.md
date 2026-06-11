@@ -16,13 +16,13 @@
 
 ## About
 
-Software Engineering student at the intersection of **engineering** and **design**. I believe software isn't finished when it works — it's finished when it feels right. Clean logic and visual craft aren't opposites; the best products demand both.
+Software Engineering student at the intersection of **engineering** and **design**. My goal is to balance technical precision with polished execution, ensuring software functions flawlessly and feels right. Clean logic and visual craft aren't opposites; the best products demand both.
 
 Currently a collaborator on a private international product, shipping cross-platform apps with **Flutter**, and building automation pipelines with Python.
 
 ```python
 focus  = ["product design", "mobile dev", "backend systems", "automation"]
-belief = "function is the floor — beauty is the standard"
+belief = "function is the floor / beauty is the standard"
 ```
 
 ---
