@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Building+intelligent+systems+from+scratch.;Computer+vision+%26+machine+learning+pipelines.;Mobile+experiences+with+Flutter.;Automation+%7C+CI%2FCD+%7C+Clean+architecture.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+engineer+with+a+designer%27s+eye.;Mobile+dev+%7C+Backend+%7C+Automation.;Function+is+the+floor+%E2%80%94+beauty+is+the+standard.;Currently+collaborating+internationally.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=erlandsonjr&color=58A6FF&style=flat&label=profile+views)](https://github.com/erlandsonjr)
 
@@ -16,13 +16,13 @@
 
 ## About
 
-Software Engineering student building at the intersection of **AI** and **systems design**. Drawn to problems that demand real architecture thinking — from the computer vision pipeline to the app that consumes it.
+Software Engineering student at the intersection of **engineering** and **design**. I believe software isn't finished when it works — it's finished when it feels right. Clean logic and visual craft aren't opposites; the best products demand both.
 
-Currently developing **FacialPoint**, a full-stack facial recognition platform; shipping cross-platform apps with **Flutter**; and automating workflows end-to-end with Python.
+Currently a collaborator on a private international product, shipping cross-platform apps with **Flutter**, and building automation pipelines with Python.
 
 ```python
-focus  = ["computer vision", "backend systems", "mobile dev", "automation"]
-belief = "good software is invisible — it just works"
+focus  = ["product design", "mobile dev", "backend systems", "automation"]
+belief = "function is the floor — beauty is the standard"
 ```
 
 ---
