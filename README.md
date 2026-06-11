@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1040,100:0d1117&height=220&section=header&text=Erlandson+Junior&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+·+AI+·+Mobile+·+Systems&descSize=15&descAlignY=60&descColor=a0a8c8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1f0a00,100:111111&height=220&section=header&text=Erlandson+Junior&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+·+Design+·+Mobile+·+Systems&descSize=15&descAlignY=60&descColor=aaaaaa" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=Software+engineer+with+a+designer%27s+eye.;Mobile+dev+%7C+Backend+%7C+Automation.;Function+is+the+floor+%E2%80%94+beauty+is+the+standard.;Currently+collaborating+internationally.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3500&pause=1000&color=ff4d1c&center=true&vCenter=true&width=560&lines=Software+engineer+with+a+designer%27s+eye.;Mobile+dev+%7C+Backend+%7C+Automation.;Function+is+the+floor+%E2%80%94+beauty+is+the+standard.;Currently+collaborating+internationally.)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=erlandsonjr&color=58A6FF&style=flat&label=profile+views)](https://github.com/erlandsonjr)
+[![Profile Views](https://komarev.com/ghpvc/?username=erlandsonjr&color=ff4d1c&style=flat&label=profile+views)](https://github.com/erlandsonjr)
 
 </div>
 
@@ -42,16 +42,16 @@ belief = "function is the floor — beauty is the standard"
 <div align="center">
 
 <a href="https://github.com/erlandsonjr/FacialPoint-Reconhecimento-Facial">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=FacialPoint-Reconhecimento-Facial&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=FacialPoint-Reconhecimento-Facial&hide_border=true&bg_color=111111&title_color=ff4d1c&text_color=888888&icon_color=ff4d1c" />
 </a>
 <a href="https://github.com/erlandsonjr/erlandsonjr-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=erlandsonjr-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=erlandsonjr-portfolio&hide_border=true&bg_color=111111&title_color=ff4d1c&text_color=888888&icon_color=ff4d1c" />
 </a>
 <a href="https://github.com/erlandsonjr/video-frame-extractor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=video-frame-extractor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=video-frame-extractor&hide_border=true&bg_color=111111&title_color=ff4d1c&text_color=888888&icon_color=ff4d1c" />
 </a>
 <a href="https://github.com/erlandsonjr/SoundSearch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=SoundSearch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=SoundSearch&hide_border=true&bg_color=111111&title_color=ff4d1c&text_color=888888&icon_color=ff4d1c" />
 </a>
 
 </div>
@@ -62,15 +62,15 @@ belief = "function is the floor — beauty is the standard"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=erlandsonjr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=erlandsonjr&show_icons=true&hide_border=true&bg_color=111111&title_color=ff4d1c&text_color=888888&icon_color=ff4d1c&rank_icon=github&include_all_commits=true" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlandsonjr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlandsonjr&layout=compact&hide_border=true&bg_color=111111&title_color=ff4d1c&text_color=888888&langs_count=8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=erlandsonjr&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1a1f36&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" height="165"/>
+<img src="https://streak-stats.demolab.com?user=erlandsonjr&hide_border=true&background=111111&stroke=1a1a1a&ring=ff4d1c&fire=ff4d1c&currStreakNum=ffffff&sideNums=888888&currStreakLabel=ff4d1c&sideLabels=888888&dates=888888" height="165"/>
 
 </div>
 
@@ -78,8 +78,8 @@ belief = "function is the floor — beauty is the standard"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=erlandsonjr&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=1a5276&point=58A6FF&area=true&area_color=1a5276" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erlandsonjr&hide_border=true&bg_color=111111&color=ff4d1c&line=7a2008&point=ff4d1c&area=true&area_color=3d1000" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1040,100:0a0e27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1f0a00,100:0f0f0f&height=120&section=footer" width="100%"/>
