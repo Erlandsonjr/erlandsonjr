@@ -44,8 +44,8 @@ belief = "function is the floor — beauty is the standard"
 <a href="https://github.com/erlandsonjr/FacialPoint-Reconhecimento-Facial">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=FacialPoint-Reconhecimento-Facial&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
 </a>
-<a href="https://github.com/erlandsonjr/EngScan-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=EngScan-App&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
+<a href="https://github.com/erlandsonjr/erlandsonjr-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=erlandsonjr-portfolio&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
 </a>
 <a href="https://github.com/erlandsonjr/video-frame-extractor">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=erlandsonjr&repo=video-frame-extractor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF" />
