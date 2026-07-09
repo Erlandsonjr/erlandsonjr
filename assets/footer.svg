@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="function is the floor — beauty is the standard">
+  <defs>
+    <radialGradient id="ember" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#150800" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#150800" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0a0a0c" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1000" height="140" rx="16"/></clipPath>
+  </defs>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; }
+    .bar { animation: stretch 3.4s ease-in-out infinite; transform-origin: 500px 0; }
+    @keyframes stretch { 0%, 100% { transform: scaleX(1); } 50% { transform: scaleX(2.2); } }
+    .tw  { animation: tw 2.8s ease-in-out infinite; }
+    .tw2 { animation: tw 2.8s ease-in-out 1.4s infinite; }
+    @keyframes tw { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="140" fill="#0a0a0c"/>
+    <ellipse cx="500" cy="160" rx="480" ry="130" fill="url(#ember)"/>
+
+    <rect x="404" y="30" width="10" height="10" fill="#ff4d1c" class="tw"/>
+    <rect x="586" y="30" width="10" height="10" fill="#ff4d1c" class="tw2"/>
+
+    <text x="500" y="72" text-anchor="middle" class="mono" font-size="17">
+      <tspan fill="#555555">“</tspan><tspan fill="#c9c5c2">function is the floor </tspan><tspan fill="#ff4d1c">—</tspan><tspan fill="#c9c5c2"> beauty is the standard.</tspan><tspan fill="#555555">”</tspan>
+    </text>
+    <text x="500" y="102" text-anchor="middle" class="mono" font-size="12" letter-spacing="2" fill="#555555">designed &amp; built by erlandsonjr · fueled by coffee</text>
+
+    <rect x="440" y="120" width="120" height="4" fill="#ff4d1c" opacity="0.2"/>
+    <g class="bar"><rect x="470" y="120" width="60" height="4" fill="#ff4d1c"/></g>
+
+    <rect x="0.5" y="0.5" width="999" height="139" rx="16" fill="none" stroke="#1a1a1e"/>
+  </g>
+</svg>
