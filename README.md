@@ -29,7 +29,7 @@ mode  = "remote-first · international"
 
 <br/>
 
-<img src="assets/coffee.svg" width="220" alt="pixel-art coffee cup, always brewing"/>
+<img src="assets/coffee.gif" width="220" alt="pixel-art coffee cup, always brewing"/>
 
 <sub><samp>always brewing</samp></sub>
 
