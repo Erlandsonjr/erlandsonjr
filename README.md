@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Erlandson Junior — Software Engineer · Full-Stack & Mobile" width="100%"/>
+  <img src="assets/header.svg" alt="Erlandson Junior - Software Engineer · Full-Stack & Mobile" width="100%"/>
 </div>
 
 <br/>
@@ -10,19 +10,19 @@
 
 ### <samp>01 · about</samp>
 
-Software Engineer focused on shipping **end-to-end products** — from cross-platform mobile apps to AI-powered web platforms. I work at the intersection of engineering and design: clean logic and visual craft aren't opposites — the best products demand both.
+Software Engineer focused on shipping **end-to-end products**. From cross-platform mobile apps to AI-powered web platforms. I work at the intersection of engineering and design: clean logic and visual craft aren't opposites: the best products demand both.
 
-- Co-founder of **EngScan** — 1st place at PICS 2024, accelerated by the Centelha program
+- Co-founder of **EngScan** - 1st place at PICS 2024, accelerated by the Centelha program
 - Full-stack developer on **Career Angel**, an AI career platform for US higher education
-- Final-year Software Engineering student at iCEV — 3× AWS certified
-- Based in Teresina, Brazil — building for international markets
+- Final-year Software Engineering student at iCEV - 3× AWS certified
+- Based in Teresina, Brazil - building for international markets
 
 ```python
 focus = ["product engineering", "mobile", "backend & cloud", "applied ai"]
 mode  = "remote-first · international"
 ```
 
-<sub><samp>off the clock — video editing, ai-generated music, and games.</samp></sub>
+<sub><samp>off the clock - video editing, photo editing, and games.</samp></sub>
 
 </td>
 <td valign="top" width="34%" align="center">
@@ -47,7 +47,7 @@ mode  = "remote-first · international"
 
 <b>Career Angel</b> · <sub><samp>FULL-STACK · CONTRACT</samp></sub>
 
-<sub>AI-powered career platform for US higher education. Semantic search with vector embeddings, AI assessment pipelines, and real-time background job infrastructure — built end to end.</sub>
+<sub>AI-powered career platform for US higher education. Semantic search with vector embeddings, AI assessment pipelines, and real-time background job infrastructure - built end to end.</sub>
 
 <code>Next.js 16</code> <code>TypeScript</code> <code>Supabase · pgvector</code> <code>xAI · OpenAI</code> <code>Trigger.dev</code>
 
@@ -110,7 +110,7 @@ mode  = "remote-first · international"
 
 <b><a href="https://github.com/erlandsonjr/FacialPoint-Reconhecimento-Facial">FacialPoint</a></b>
 
-<sub>Facial-recognition time tracking — employees clock in via real-time webcam recognition. Microservices across four repos: React frontend, Node API, two FastAPI AI services.</sub>
+<sub>Facial-recognition time tracking - employees clock in via real-time webcam recognition. Microservices across four repos: React frontend, Node API, two FastAPI AI services.</sub>
 
 <code>React</code> <code>Node.js</code> <code>FastAPI</code> <code>dlib</code>
 
@@ -119,7 +119,7 @@ mode  = "remote-first · international"
 
 <b><a href="https://github.com/erlandsonjr/the-expurgation-in-cygnus">The Expurgation in Cygnus</a></b>
 
-<sub>Roguelike action-survival game — 10 waves of escalating combat, upgrade-card choice matrix, data-driven design with ScriptableObjects. 32-bit pixel art, original soundtrack.</sub>
+<sub>Roguelike action-survival game - 10 waves of escalating combat, upgrade-card choice matrix, data-driven design with ScriptableObjects. 32-bit pixel art, original soundtrack.</sub>
 
 <code>Unity 6</code> <code>C#</code> <code>URP</code>
 
@@ -128,7 +128,7 @@ mode  = "remote-first · international"
 
 <b><a href="https://github.com/erlandsonjr/video-frame-extractor">Video Frame Extractor</a></b>
 
-<sub>Desktop tool for extracting high-quality frames from video — drag-and-drop, configurable intervals, zoomable gallery, threaded processing, multi-format export.</sub>
+<sub>Desktop tool for extracting high-quality frames from video - drag-and-drop, configurable intervals, zoomable gallery, threaded processing, multi-format export.</sub>
 
 <code>Python</code> <code>PySide6</code> <code>OpenCV</code>
 
@@ -152,7 +152,7 @@ mode  = "remote-first · international"
   <img src="https://img.shields.io/badge/Email-erlandsonjunior%40outlook.com-ff4d1c?style=for-the-badge&labelColor=1a1a1e" alt="Email — erlandsonjunior@outlook.com"/>
 </a>
 
-<sub><samp>open to remote roles — full-time or contract · US / CA / UK</samp></sub>
+<sub><samp>open to remote roles - full-time or contract · US / CA / UK</samp></sub>
 
 <br/>
 <br/>
