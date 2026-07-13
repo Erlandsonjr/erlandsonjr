@@ -152,7 +152,7 @@ mode  = "remote-first · international"
   <img src="https://img.shields.io/badge/Email-erlandsonjunior%40outlook.com-ff4d1c?style=for-the-badge&labelColor=1a1a1e" alt="Email — erlandsonjunior@outlook.com"/>
 </a>
 
-<sub><samp>open to remote roles - full-time or contract · US / CA / UK</samp></sub>
+<sub><samp>open to remote roles - full-time or contract</samp></sub>
 
 <br/>
 <br/>
