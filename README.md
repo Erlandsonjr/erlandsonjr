@@ -139,13 +139,8 @@ mode  = "remote-first · international"
 
 <br/>
 
-<a href="https://www.linkedin.com/in/erlandsonjr">
-  <img src="https://img.shields.io/badge/LinkedIn-erlandsonjr-ff4d1c?style=for-the-badge&labelColor=1a1a1e" alt="LinkedIn — erlandsonjr"/>
-</a>
-&nbsp;
-<a href="mailto:erlandsonjunior@outlook.com">
-  <img src="https://img.shields.io/badge/Email-erlandsonjunior%40outlook.com-ff4d1c?style=for-the-badge&labelColor=1a1a1e" alt="Email — erlandsonjunior@outlook.com"/>
-</a>
+<a href="https://www.linkedin.com/in/erlandsonjr"><img src="assets/connect/linkedin.svg" alt="LinkedIn — erlandsonjr"/></a>
+<a href="mailto:erlandsonjunior@outlook.com"><img src="assets/connect/email.svg" alt="Email — erlandsonjunior@outlook.com"/></a>
 
 <sub><samp>open to remote roles - full-time or contract</samp></sub>
 
