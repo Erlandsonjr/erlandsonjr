@@ -1,9 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="188" height="36" viewBox="0 0 188 36" role="img" aria-label="AWS Academy Graduate — cloud developing">
+<svg xmlns="http://www.w3.org/2000/svg" width="199" height="34" viewBox="0 0 199 34" role="img" aria-label="AWS Academy Graduate — cloud developing">
   <style>
     .sans { font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
     .mono { font-family: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace; }
   </style>
-  <rect x="0.5" y="0.5" width="187" height="35" rx="17.5" fill="#0a0a0c" stroke="#1a1a1e"/>
-  <polygon points="21.0,13.0 25.3,15.5 25.3,20.5 21.0,23.0 16.7,20.5 16.7,15.5" fill="#ff4d1c"/>
-  <text x="36" y="22.5" class="mono" font-size="13" letter-spacing="0.5" fill="#c9c5c2">cloud developing</text>
+  <clipPath id="c"><rect width="199" height="34" rx="6"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect width="199" height="34" fill="#0a0a0c"/>
+    <rect width="49" height="34" fill="#1a1a1e"/>
+    <text x="24.5" y="21" text-anchor="middle" class="mono" font-size="12" font-weight="700" letter-spacing="1" fill="#ff4d1c">aws</text>
+    <text x="62" y="21" class="mono" font-size="12" letter-spacing="0.5" fill="#c9c5c2">cloud developing</text>
+    <rect x="0.5" y="0.5" width="198" height="33" rx="6" fill="none" stroke="#1a1a1e"/>
+  </g>
 </svg>

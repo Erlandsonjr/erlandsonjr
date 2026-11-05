@@ -45,18 +45,20 @@ mode  = "remote-first · international"
 <tr>
 <td valign="top" width="50%">
 
-<b>Career Angel</b> · <sub><samp>FULL-STACK · CONTRACT</samp></sub>
+<b>Career Angel</b><br/>
+<sub><samp>FULL-STACK · CONTRACT</samp></sub>
 
-<sub>AI-powered career platform for US higher education. Semantic search with vector embeddings, AI assessment pipelines, and real-time background job infrastructure - built end to end.</sub>
+<sub>AI career platform for US higher education - semantic search over vector embeddings, AI assessment pipelines and real-time background jobs.</sub>
 
-<code>Next.js 16</code> <code>TypeScript</code> <code>Supabase · pgvector</code> <code>xAI · OpenAI</code> <code>Trigger.dev</code>
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>OpenAI</code>
 
 </td>
 <td valign="top" width="50%">
 
-<b>EngScan</b> · <sub><samp>CO-FOUNDER · MOBILE LEAD</samp></sub>
+<b>EngScan</b><br/>
+<sub><samp>CO-FOUNDER · MOBILE LEAD</samp></sub>
 
-<sub>B2B SaaS that turns field inspections into AI-generated structural reports for civil engineers. 1st place at PICS 2024 · backed by the Centelha accelerator.</sub>
+<sub>B2B SaaS that turns field inspections into AI-generated structural reports for civil engineers. PICS 2024 winner · Centelha-accelerated.</sub>
 
 <code>Flutter</code> <code>Dart</code> <code>Python</code> <code>PostgreSQL</code> <code>Stripe</code>
 
