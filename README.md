@@ -14,11 +14,11 @@ Software Engineer focused on shipping **end-to-end products**. From cross-platfo
 
 - Co-founder of **EngScan** - 1st place at PICS 2024, accelerated by the Centelha program
 - Full-stack developer on **Career Angel**, an AI career platform for US higher education
-- Final-year Software Engineering student at iCEV - 3× AWS certified
+- Final-year Software Engineering student at iCEV (class of 2027) - 4× AWS Academy graduate
 - Based in Teresina, Brazil - building for international markets
 
 ```python
-focus = ["product engineering", "mobile", "backend & cloud", "applied ai"]
+focus = ["product engineering", "mobile", "backend & cloud", "data & applied ai"]
 mode  = "remote-first · international"
 ```
 
@@ -43,22 +43,34 @@ mode  = "remote-first · international"
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-<b>Career Angel</b> · <sub><samp>FULL-STACK · CONTRACT</samp></sub>
+<b>Career Angel</b><br/>
+<sub><samp>FULL-STACK · CONTRACT</samp></sub>
 
 <sub>AI-powered career platform for US higher education. Semantic search with vector embeddings, AI assessment pipelines, and real-time background job infrastructure - built end to end.</sub>
 
 <code>Next.js 16</code> <code>TypeScript</code> <code>Supabase · pgvector</code> <code>xAI · OpenAI</code> <code>Trigger.dev</code>
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-<b>EngScan</b> · <sub><samp>CO-FOUNDER · MOBILE LEAD</samp></sub>
+<b>EngScan</b><br/>
+<sub><samp>CO-FOUNDER · MOBILE LEAD</samp></sub>
 
 <sub>B2B SaaS that turns field inspections into AI-generated structural reports for civil engineers. 1st place at PICS 2024 · backed by the Centelha accelerator.</sub>
 
 <code>Flutter</code> <code>Dart</code> <code>Python</code> <code>PostgreSQL</code> <code>Stripe</code>
+
+</td>
+<td valign="top" width="33%">
+
+<b>CEASA-PI · Food Bank</b><br/>
+<sub><samp>FRONTEND · INTEGRATION</samp></sub>
+
+<sub>Logistics platform that routes surplus produce from Piauí's state supply center to registered charities - intake, triage, donation tracking and a Python ETL for KPIs. University social-impact project.</sub>
+
+<code>React</code> <code>TypeScript</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>Docker</code>
 
 </td>
 </tr>
@@ -72,7 +84,7 @@ mode  = "remote-first · international"
 
 <br/>
 
-[![Tech stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs,python,fastapi,postgres,mysql,supabase,aws,cs,c,unity,git,github&theme=dark&perline=9)](https://github.com/erlandsonjr)
+[![Tech stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs,python,fastapi,postgres,mysql,supabase,aws,docker,cs,unity,git,github&theme=dark&perline=9)](https://github.com/erlandsonjr)
 
 <br/>
 
@@ -84,19 +96,12 @@ mode  = "remote-first · international"
 
 <br/>
 
-<a href="https://www.credly.com/badges/da343aa5-1c4d-4d49-be80-3584f2e1019c/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Developing-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=ff4d1c&labelColor=1a1a1e" alt="AWS Academy Graduate — Cloud Developing"/>
-</a>
-&nbsp;
-<a href="https://www.credly.com/badges/d136c17f-0f09-46aa-9e0a-be442d820fbb/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Generative%20AI%20Foundations-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=ff4d1c&labelColor=1a1a1e" alt="AWS Academy Graduate — Generative AI Foundations"/>
-</a>
-&nbsp;
-<a href="https://www.credly.com/badges/83d6b299-6165-4038-9428-0a163bb7b7fc/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=ff4d1c&labelColor=1a1a1e" alt="AWS Academy Graduate — Machine Learning Foundations"/>
-</a>
+<a href="https://www.credly.com/badges/6e183eeb-386b-4f6e-ba0a-584bdebf9076/public_url"><img src="assets/certs/data-engineering.svg" width="49%" alt="AWS Academy Graduate — Data Engineering · Jul 2026"/></a>
+<a href="https://www.credly.com/badges/da343aa5-1c4d-4d49-be80-3584f2e1019c/public_url"><img src="assets/certs/cloud-developing.svg" width="49%" alt="AWS Academy Graduate — Cloud Developing · Jun 2026"/></a>
+<a href="https://www.credly.com/badges/d136c17f-0f09-46aa-9e0a-be442d820fbb/public_url"><img src="assets/certs/generative-ai.svg" width="49%" alt="AWS Academy Graduate — Generative AI Foundations · Oct 2025"/></a>
+<a href="https://www.credly.com/badges/83d6b299-6165-4038-9428-0a163bb7b7fc/public_url"><img src="assets/certs/machine-learning.svg" width="49%" alt="AWS Academy Graduate — Machine Learning Foundations · Jun 2025"/></a>
 
-<sub><samp>click a badge to verify on credly</samp></sub>
+<sub><samp>click a card to verify on credly</samp></sub>
 
 <br/>
 
