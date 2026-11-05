@@ -14,7 +14,7 @@ Software Engineer focused on shipping **end-to-end products**. From cross-platfo
 
 - Co-founder of **EngScan** - 1st place at PICS 2024, accelerated by the Centelha program
 - Full-stack developer on **Career Angel**, an AI career platform for US higher education
-- Final-year Software Engineering student at iCEV - 3× AWS certified
+- Final-year Software Engineering student at iCEV (class of 2027) - 4× AWS Academy graduate
 - Based in Teresina, Brazil - building for international markets
 
 ```python
@@ -45,18 +45,20 @@ mode  = "remote-first · international"
 <tr>
 <td valign="top" width="50%">
 
-<b>Career Angel</b> · <sub><samp>FULL-STACK · CONTRACT</samp></sub>
+<b>Career Angel</b><br/>
+<sub><samp>FULL-STACK · CONTRACT</samp></sub>
 
-<sub>AI-powered career platform for US higher education. Semantic search with vector embeddings, AI assessment pipelines, and real-time background job infrastructure - built end to end.</sub>
+<sub>AI career platform for US higher education - semantic search over vector embeddings, AI assessment pipelines and real-time background jobs.</sub>
 
-<code>Next.js 16</code> <code>TypeScript</code> <code>Supabase · pgvector</code> <code>xAI · OpenAI</code> <code>Trigger.dev</code>
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>OpenAI</code>
 
 </td>
 <td valign="top" width="50%">
 
-<b>EngScan</b> · <sub><samp>CO-FOUNDER · MOBILE LEAD</samp></sub>
+<b>EngScan</b><br/>
+<sub><samp>CO-FOUNDER · MOBILE LEAD</samp></sub>
 
-<sub>B2B SaaS that turns field inspections into AI-generated structural reports for civil engineers. 1st place at PICS 2024 · backed by the Centelha accelerator.</sub>
+<sub>B2B SaaS that turns field inspections into AI-generated structural reports for civil engineers. PICS 2024 winner · Centelha-accelerated.</sub>
 
 <code>Flutter</code> <code>Dart</code> <code>Python</code> <code>PostgreSQL</code> <code>Stripe</code>
 
@@ -72,7 +74,7 @@ mode  = "remote-first · international"
 
 <br/>
 
-[![Tech stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs,python,fastapi,postgres,mysql,supabase,aws,cs,c,unity,git,github&theme=dark&perline=9)](https://github.com/erlandsonjr)
+[![Tech stack](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,dart,nodejs,python,fastapi,postgres,mysql,supabase,aws,docker,cs,unity,git,github&theme=dark&perline=9)](https://github.com/erlandsonjr)
 
 <br/>
 
@@ -84,19 +86,12 @@ mode  = "remote-first · international"
 
 <br/>
 
-<a href="https://www.credly.com/badges/da343aa5-1c4d-4d49-be80-3584f2e1019c/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Developing-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=ff4d1c&labelColor=1a1a1e" alt="AWS Academy Graduate — Cloud Developing"/>
-</a>
-&nbsp;
-<a href="https://www.credly.com/badges/d136c17f-0f09-46aa-9e0a-be442d820fbb/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Generative%20AI%20Foundations-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=ff4d1c&labelColor=1a1a1e" alt="AWS Academy Graduate — Generative AI Foundations"/>
-</a>
-&nbsp;
-<a href="https://www.credly.com/badges/83d6b299-6165-4038-9428-0a163bb7b7fc/public_url">
-  <img src="https://img.shields.io/badge/AWS%20Academy-Machine%20Learning%20Foundations-0a0a0c?style=for-the-badge&logo=amazonwebservices&logoColor=ff4d1c&labelColor=1a1a1e" alt="AWS Academy Graduate — Machine Learning Foundations"/>
-</a>
+<a href="https://www.credly.com/badges/6e183eeb-386b-4f6e-ba0a-584bdebf9076/public_url"><img src="assets/certs/data-engineering.svg" alt="AWS Academy Graduate — Data Engineering · Jul 2026"/></a>
+<a href="https://www.credly.com/badges/da343aa5-1c4d-4d49-be80-3584f2e1019c/public_url"><img src="assets/certs/cloud-developing.svg" alt="AWS Academy Graduate — Cloud Developing · Jun 2026"/></a>
+<a href="https://www.credly.com/badges/d136c17f-0f09-46aa-9e0a-be442d820fbb/public_url"><img src="assets/certs/generative-ai.svg" alt="AWS Academy Graduate — Generative AI Foundations · Oct 2025"/></a>
+<a href="https://www.credly.com/badges/83d6b299-6165-4038-9428-0a163bb7b7fc/public_url"><img src="assets/certs/machine-learning.svg" alt="AWS Academy Graduate — Machine Learning Foundations · Jun 2025"/></a>
 
-<sub><samp>click a badge to verify on credly</samp></sub>
+<sub><samp>aws academy graduate · click to verify on credly</samp></sub>
 
 <br/>
 
@@ -144,13 +139,8 @@ mode  = "remote-first · international"
 
 <br/>
 
-<a href="https://www.linkedin.com/in/erlandsonjr">
-  <img src="https://img.shields.io/badge/LinkedIn-erlandsonjr-ff4d1c?style=for-the-badge&labelColor=1a1a1e" alt="LinkedIn — erlandsonjr"/>
-</a>
-&nbsp;
-<a href="mailto:erlandsonjunior@outlook.com">
-  <img src="https://img.shields.io/badge/Email-erlandsonjunior%40outlook.com-ff4d1c?style=for-the-badge&labelColor=1a1a1e" alt="Email — erlandsonjunior@outlook.com"/>
-</a>
+<a href="https://www.linkedin.com/in/erlandsonjr"><img src="assets/connect/linkedin.svg" alt="LinkedIn — erlandsonjr"/></a>
+<a href="mailto:erlandsonjunior@outlook.com"><img src="assets/connect/email.svg" alt="Email — erlandsonjunior@outlook.com"/></a>
 
 <sub><samp>open to remote roles - full-time or contract</samp></sub>
 
