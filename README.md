@@ -18,7 +18,7 @@ Software Engineer focused on shipping **end-to-end products**. From cross-platfo
 - Based in Teresina, Brazil - building for international markets
 
 ```python
-focus = ["product engineering", "mobile", "backend & cloud", "data & applied ai"]
+focus = ["product engineering", "mobile", "backend & cloud", "applied ai"]
 mode  = "remote-first · international"
 ```
 
