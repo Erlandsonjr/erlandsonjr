@@ -84,10 +84,10 @@ mode  = "remote-first · international"
 
 <br/>
 
-<a href="https://www.credly.com/badges/6e183eeb-386b-4f6e-ba0a-584bdebf9076/public_url"><img src="assets/certs/data-engineering.svg" width="24%" alt="AWS Academy Graduate — Data Engineering · Jul 2026"/></a>
-<a href="https://www.credly.com/badges/da343aa5-1c4d-4d49-be80-3584f2e1019c/public_url"><img src="assets/certs/cloud-developing.svg" width="24%" alt="AWS Academy Graduate — Cloud Developing · Jun 2026"/></a>
-<a href="https://www.credly.com/badges/d136c17f-0f09-46aa-9e0a-be442d820fbb/public_url"><img src="assets/certs/generative-ai.svg" width="24%" alt="AWS Academy Graduate — Generative AI Foundations · Oct 2025"/></a>
-<a href="https://www.credly.com/badges/83d6b299-6165-4038-9428-0a163bb7b7fc/public_url"><img src="assets/certs/machine-learning.svg" width="24%" alt="AWS Academy Graduate — Machine Learning Foundations · Jun 2025"/></a>
+<a href="https://www.credly.com/badges/6e183eeb-386b-4f6e-ba0a-584bdebf9076/public_url"><img src="assets/certs/data-engineering.svg" alt="AWS Academy Graduate — Data Engineering · Jul 2026"/></a>
+<a href="https://www.credly.com/badges/da343aa5-1c4d-4d49-be80-3584f2e1019c/public_url"><img src="assets/certs/cloud-developing.svg" alt="AWS Academy Graduate — Cloud Developing · Jun 2026"/></a>
+<a href="https://www.credly.com/badges/d136c17f-0f09-46aa-9e0a-be442d820fbb/public_url"><img src="assets/certs/generative-ai.svg" alt="AWS Academy Graduate — Generative AI Foundations · Oct 2025"/></a>
+<a href="https://www.credly.com/badges/83d6b299-6165-4038-9428-0a163bb7b7fc/public_url"><img src="assets/certs/machine-learning.svg" alt="AWS Academy Graduate — Machine Learning Foundations · Jun 2025"/></a>
 
 <sub><samp>aws academy graduate · click to verify on credly</samp></sub>
 
